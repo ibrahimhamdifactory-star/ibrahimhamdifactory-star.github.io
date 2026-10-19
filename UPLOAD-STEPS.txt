@@ -1,0 +1,8 @@
+رفع الموقع على GitHub (من الموبايل، Chrome بوضع Desktop):
+1) فك ضغط الملف.
+2) افتح github.com/ibrahimhamdifactory-star/ibrahimhamdifactory-star.github.io
+3) Add file > Upload files، ثم ارفع كل الملفات والمجلدات (index.html, b2b, assets, ...). الملف المخفي .nojekyll اختياري.
+4) Commit changes.
+5) Settings > Pages > Source: Deploy from a branch > main / (root) > Save.
+6) بعد دقيقة: https://ibrahimhamdifactory-star.github.io  و  /b2b/  و  /b2b/ar/
+تنبيهات الطلبات (ntfy): ثبّت تطبيق ntfy واشترك في التوبيك الموجود في ملف site-config.js.

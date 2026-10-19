@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ibrahimhamdifactory-star.github.io/sitemap.xml
